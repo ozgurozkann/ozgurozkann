@@ -139,12 +139,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozgurozkann/ozgurozkann/gh-pages/github-contribution-grid-snake-dark.svg?v=100" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozgurozkann/ozgurozkann/gh-pages/github-contribution-grid-snake.svg?v=100" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozgurozkann/ozgurozkann/gh-pages/github-contribution-grid-snake.svg?v=100" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ozgurozkann/ozgurozkann/raw/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ozgurozkann/ozgurozkann/raw/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/ozgurozkann/ozgurozkann/raw/gh-pages/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 ---
 
 ### 🚀 Öne Çıkan Projelerim
